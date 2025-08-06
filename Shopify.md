@@ -2,7 +2,7 @@
 
 | Purpose   | Service                                                                                                                                 |
 |-----------|-----------------------------------------------------------------------------------------------------------------------------------------|
-| Search DB | [ElasticSearch](https://github.com/Anshul619/HLD-System-Designs/tree/main/-System-Designs/3_Databases/9_Search-Databases/ElasticSearch/Readme.md) - [Read more](https://www.elastic.co/customers/shopify) |
+| Search DB | [ElasticSearch](https://github.com/Anshul619/HLD-System-Designs/tree/main/3_Databases/9_Search-Databases/ElasticSearch/Readme.md) - [Read more](https://www.elastic.co/customers/shopify) |
 
 # References
 - [10 Tips for Building Resilient Payment Systems](https://shopify.engineering/building-resilient-payment-systems)

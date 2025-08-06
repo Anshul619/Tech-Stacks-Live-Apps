@@ -2,7 +2,7 @@
 
 | Purpose      | Service                                                                                                                                                                                                                   |
 |--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Home Feed DB | [RocksDB](https://github.com/Anshul619/HLD-System-Designs/tree/main/-System-Designs/3_Databases/14_EmbededKeyValue-Databases/RocksDB.md) - [Read more](https://engineering.linkedin.com/blog/2016/03/followfeed--linkedin-s-feed-made-faster-and-smarter) |
+| Home Feed DB | [RocksDB](https://github.com/Anshul619/HLD-System-Designs/tree/main/3_Databases/14_EmbededKeyValue-Databases/RocksDB.md) - [Read more](https://engineering.linkedin.com/blog/2016/03/followfeed--linkedin-s-feed-made-faster-and-smarter) |
 | SQL DB       | [MySQL]() - [Read more](https://www.quora.com/Does-Facebook-use-Apache-Cassandra)                                                                                                                                                                                                 |
 
 # Read more

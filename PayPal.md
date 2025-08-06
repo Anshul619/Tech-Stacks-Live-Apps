@@ -2,8 +2,8 @@
 
 | Purpose           | Service                                                       |
 |-------------------|---------------------------------------------------------------|
-| Data Streaming    | [Apache Kafka](https://github.com/Anshul619/HLD-System-Designs/tree/main/-System-Designs/4_MessageBrokersEDA/Kafka/Readme.md)        |
-| NoSQL InMemory DB | [Aerospike](https://github.com/Anshul619/HLD-System-Designs/tree/main/-System-Designs/3_Databases/8_Caching-InMemory-Databases/AeroSpike.md) |
+| Data Streaming    | [Apache Kafka](https://github.com/Anshul619/HLD-System-Designs/tree/main/4_MessageBrokersEDA/Kafka/Readme.md)        |
+| NoSQL InMemory DB | [Aerospike](https://github.com/Anshul619/HLD-System-Designs/tree/main/3_Databases/8_Caching-InMemory-Databases/AeroSpike.md) |
 | SQL DB            | PostgreSQL                                                    |
 
 # Scaling Kafka to Support PayPal’s Data Growth

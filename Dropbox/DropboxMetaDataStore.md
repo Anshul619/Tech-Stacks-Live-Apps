@@ -5,7 +5,7 @@
 [Read more](https://aws.amazon.com/solutions/case-studies/dropbox-dynamodb-case-study/?pg=dynamodb&sec=cs#dropbox)
 
 # Building Hot and Cold Metadata Stores Using AWS Solutions
-- [Amazon DynamoDB](https://github.com/Anshul619/AWS-Services/tree/main/1_Databases/AmazonDynamoDB/Readme.md) acts as the [hot storage layer](https://github.com/Anshul619/HLD-System-Designs/tree/main/-System-Designs/11_FileStorages/StorageOptions.md), ingesting audit logging data to six DynamoDB tables at **4,000–6,000 writes per second per table**. 
+- [Amazon DynamoDB](https://github.com/Anshul619/AWS-Services/tree/main/1_Databases/AmazonDynamoDB/Readme.md) acts as the [hot storage layer](https://github.com/Anshul619/HLD-System-Designs/tree/main/11_FileStorages/StorageOptions.md), ingesting audit logging data to six DynamoDB tables at **4,000–6,000 writes per second per table**. 
 - Then each of these tables stores **50–80 GB daily**. 
 - At the end of each day, the team offloads the metadata from these tables into [Amazon S3](https://github.com/Anshul619/AWS-Services/tree/main/6_FileStorages/3_S3ObjectStorage/Readme.md) for permanent storage, after which the tables in [Amazon DynamoDB](https://github.com/Anshul619/AWS-Services/tree/main/1_Databases/AmazonDynamoDB/Readme.md) are deleted.
 - We could scale **100–1,000 times on AWS** without designing the system ahead of time.

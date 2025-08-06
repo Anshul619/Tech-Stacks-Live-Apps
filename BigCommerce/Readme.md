@@ -3,7 +3,7 @@
 | Purpose        | Service                                                               |
 |----------------|-----------------------------------------------------------------------|
 | Cloud Platform | Google Cloud Service                                                  |
-| Data Platform  | [Kafka](https://github.com/Anshul619/HLD-System-Designs/tree/main/-System-Designs/4_MessageBrokersEDA/Kafka/Readme.md) |
+| Data Platform  | [Kafka](https://github.com/Anshul619/HLD-System-Designs/tree/main/4_MessageBrokersEDA/Kafka/Readme.md) |
 
 # System Design
 - BigCommerce’s Data platform ingests over 1.6 billion eCommerce events each day such as visits, product page views, add to cart, checkouts, orders, etc.

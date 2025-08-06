@@ -7,7 +7,7 @@
 | Client Apps       | Hybrid - Native apps for first interaction, then ReactNative apps for different pages.                                              |
 | Transactions DB   | MySQL (Amazon Aurora)                                                                                                               |
 | Static DB         | MongoDB (Static info like comments, events/audit trails etc.)                                                                       |
-| Microservices     | 250 microservices, each service with own DB ([share-nothing architecture](https://github.com/Anshul619/HLD-System-Designs/tree/main/-System-Designs/7b_ArchitecturePatterns/SharedNothingArchitecture.md)) |
+| Microservices     | 250 microservices, each service with own DB ([share-nothing architecture](https://github.com/Anshul619/HLD-System-Designs/tree/main/7b_ArchitecturePatterns/SharedNothingArchitecture.md)) |
 | Message Broker    | Kafka                                                                                                                               |
 | Distributed Cache | Elastic Cache (Redis)                                                                                                               |
 | Orchestrator      | Amazon EKS (k8s)                                                                                                                    |
