@@ -10,7 +10,7 @@
 | Metadata store (files, columns etc.) | [Amazon DynamoDB](https://github.com/Anshul619/AWS-Services/tree/main/1_Databases/AmazonDynamoDB/Readme.md)                        |
 | Data Lake                            | [Amazon S3](https://github.com/Anshul619/AWS-Services/tree/main/10_BigData/DataStorage/DataLakes/S3DataLake.md)                    |
 | Files Caching                        | [EC2 Instance Store](https://github.com/Anshul619/AWS-Services/tree/main/6_FileStorages/1_BlockStorageTypes/AmazonEC2InstanceStore.md) |
-| Message Broker/Data-Ingestion        | [Apache Kafka](https://github.com/Anshul619/HLD-System-Designs/tree/main/4_MessageBrokersEDA/Kafka/Readme.md)                                                 |
+| Message Broker/Data-Ingestion        | [Apache Kafka](https://github.com/Anshul619/HLD-System-Designs/tree/main/2_MessageBrokersEDA/Kafka/Readme.md)                                                 |
 | Data Warehouse                       | [Amazon Redshift](https://github.com/Anshul619/AWS-Services/tree/main/10_BigData/DataStorage/DataWarehouses/AmazonRedshift.md)      |
 
 # Read more
