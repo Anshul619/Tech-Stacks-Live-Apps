@@ -10,11 +10,11 @@
 
 # Key Consideration
 
-| Title                                                                                | Remarks                                                                                                                                                                 |
-|--------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Traffic                                                                              | A million of orders per day                                                                                                                                             |
+| Title                                                                                                                    | Remarks                                                                                                                                                                 |
+|--------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Traffic                                                                                                                  | A million of orders per day                                                                                                                                             |
 | [Consistency](https://github.com/Anshul619/HLD-System-Designs/tree/main/3_Databases/4_Consistency-Replication/Readme.md) | Strong consistency for transactional queries, and eventually consistency for analytical queries.                                                                        |
-| Traffic Pattern - Peak Hours                                                         | During peak hours, the write Queries per Second (QPS) is three times of primary key reads; whilst the range Queries per Second are four times of the primary key reads. |
+| Traffic Pattern - Peak Hours                                                                                             | During peak hours, the write Queries per Second (QPS) is three times of primary key reads; whilst the range Queries per Second are four times of the primary key reads. |
 
 # Requirements
 
