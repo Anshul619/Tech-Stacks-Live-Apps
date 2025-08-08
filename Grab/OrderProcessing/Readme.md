@@ -18,22 +18,22 @@
 
 # Requirements
 
-| Use Case                                                     | Query Type | System                                                                             |
-|--------------------------------------------------------------|------------|------------------------------------------------------------------------------------|
-| Create an order                                              | Write      | OLTP/Transactional                                                                 |
-| Update an order                                              | Write      | OLTP/Transactional                                                                 |
-| Get order by id                                              | Read       | OLTP/Transactional                                                                 |
-| Get ongoing orders by passenger id.                          | Read       | OLTP/Transactional                                                                 |
+| Use Case                                                     | Query Type | System                                                                                                  |
+|--------------------------------------------------------------|------------|---------------------------------------------------------------------------------------------------------|
+| Create an order                                              | Write      | OLTP/Transactional                                                                                      |
+| Update an order                                              | Write      | OLTP/Transactional                                                                                      |
+| Get order by id                                              | Read       | OLTP/Transactional                                                                                      |
+| Get ongoing orders by passenger id.                          | Read       | OLTP/Transactional                                                                                      |
 | Get historical orders by various conditions.                 | Read       | [OLAP/Analytical](https://github.com/Anshul619/Big-Data/tree/main/DataStorage/DataWarehouses/Readme.md) |
 | Get order statistics (for example, get the number of orders) | Read       | [OLAP/Analytical](https://github.com/Anshul619/Big-Data/tree/main/DataStorage/DataWarehouses/Readme.md) |
 
 # Tech Stack
 
-| Purpose                 | Service                                                                            | Remarks                                                                                                                                          |
-|-------------------------|------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| Purpose                 | Service                                                                                                     | Remarks                                                                                                                                          |
+|-------------------------|-------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
 | OLTP Database           | [Amazon DynamoDB](https://github.com/Anshul619/AWS-Services/tree/main/1_Databases/AmazonDynamoDB/Readme.md) | An OLTP database serves queries critical to online order processing. <br/>- This table keeps data for only a short period of time.               |
-| OLAP database           | Amazon MySQL RDS                                                                   | an OLAP database has the same set of data, but serves our historical and statistical queries. <br/>- This database keeps data for a longer time. |
-| Data Ingestion Pipeline | [Kafka](https://github.com/Anshul619/HLD-System-Designs/tree/main/2_MessageBrokersEDA/Kafka/Readme.md)                                    | The data ingestion pipeline ensures that the OLAP database data is eventually consistent.                                                        |
+| OLAP database           | Amazon MySQL RDS                                                                                            | an OLAP database has the same set of data, but serves our historical and statistical queries. <br/>- This database keeps data for a longer time. |
+| Data Ingestion Pipeline | [Kafka](https://github.com/Anshul619/HLD-System-Designs/tree/main/2_MessageBrokersEDA/Kafka/Readme.md)      | The data ingestion pipeline ensures that the OLAP database data is eventually consistent.                                                        |
 
 # OLTP database - DynamoDB
 - The retention period of the [DynamoDB data](https://github.com/Anshul619/AWS-Services/tree/main/1_Databases/AmazonDynamoDB/Readme.md) is three months.

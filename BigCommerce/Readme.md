@@ -1,8 +1,8 @@
 # Tech Stack
 
-| Purpose        | Service                                                               |
-|----------------|-----------------------------------------------------------------------|
-| Cloud Platform | Google Cloud Service                                                  |
+| Purpose        | Service                                                                                                |
+|----------------|--------------------------------------------------------------------------------------------------------|
+| Cloud Platform | Google Cloud Service                                                                                   |
 | Data Platform  | [Kafka](https://github.com/Anshul619/HLD-System-Designs/tree/main/2_MessageBrokersEDA/Kafka/Readme.md) |
 
 # System Design

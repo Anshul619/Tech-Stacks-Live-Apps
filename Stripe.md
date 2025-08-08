@@ -9,7 +9,7 @@
 | Big data cluster        | [Hadoop and MapReduce](https://stripe.com/blog/online-migrations)                                                                                 |
 | Database                | [DocDB (extension of MongoDB)](https://stripe.com/blog/how-stripes-document-databases-supported-99.999-uptime-with-zero-downtime-data-migrations) |
 | Traffic                 | 10k rps (500 million API requests a day)                                                                                                          |
-| Success rates           | 99.999%                                                                                                                                                  |
+| Success rates           | 99.999%                                                                                                                                           |
 
 # Read more
 - [Stripe engineering blog](https://stripe.com/blog/engineering)

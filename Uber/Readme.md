@@ -1,11 +1,11 @@
 # Uber Tech Stack
 
-| Purpose                                 | Service                                                                                     |
-|-----------------------------------------|---------------------------------------------------------------------------------------------|
-| Data Encoding                           | [Apache Thrift](https://github.com/Anshul619/Serialization-Data/tree/main/Frameworks/Thrift.md)                     |
-| Container Orchestration                 | [Apache Marathon & Mesos](https://github.com/Anshul619/DevOps-SRE/tree/main/2_ContainerOrchestration/ApacheMarathon&Mesos.md)  |
-| NoSQL DB                                | [20 Cassandra clusters](https://github.com/Anshul619/HLD-System-Designs/tree/main/1_Databases/11_WideColumn-Databases/ApacheCasandra.md) |
-| Domain-Driven microservice architecture | [Read more](https://www.uber.com/en-IN/blog/microservice-architecture/)                     |
+| Purpose                                 | Service                                                                                                                                  |
+|-----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
+| Data Encoding                           | [Apache Thrift](https://github.com/Anshul619/Serialization-Data/tree/main/Frameworks/Thrift.md)                                          |
+| Container Orchestration                 | [Apache Marathon & Mesos](https://github.com/Anshul619/DevOps-SRE/tree/main/2_ContainerOrchestration/ApacheMarathon&Mesos.md)            |
+| NoSQL DB                                | 20 [cassandra clusters](https://github.com/Anshul619/HLD-System-Designs/tree/main/1_Databases/11_WideColumn-Databases/ApacheCasandra.md) |
+| Domain-Driven microservice architecture | [Read more](https://www.uber.com/en-IN/blog/microservice-architecture/)                                                                  |
 
 # References
 - [Service-Oriented Architecture: Scaling the Uber Engineering Codebase As We Grow](https://www.uber.com/en-IN/blog/service-oriented-architecture/)
