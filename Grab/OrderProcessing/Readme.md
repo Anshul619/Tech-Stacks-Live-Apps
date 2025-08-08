@@ -24,8 +24,8 @@
 | Update an order                                              | Write      | OLTP/Transactional                                                                 |
 | Get order by id                                              | Read       | OLTP/Transactional                                                                 |
 | Get ongoing orders by passenger id.                          | Read       | OLTP/Transactional                                                                 |
-| Get historical orders by various conditions.                 | Read       | [OLAP/Analytical](https://github.com/Anshul619/HLD-System-Designs/tree/main/6_BigData/DataStorage/DataWarehouses/Readme.md) |
-| Get order statistics (for example, get the number of orders) | Read       | [OLAP/Analytical](https://github.com/Anshul619/HLD-System-Designs/tree/main/6_BigData/DataStorage/DataWarehouses/Readme.md) |
+| Get historical orders by various conditions.                 | Read       | [OLAP/Analytical](https://github.com/Anshul619/Big-Data/tree/main/DataStorage/DataWarehouses/Readme.md) |
+| Get order statistics (for example, get the number of orders) | Read       | [OLAP/Analytical](https://github.com/Anshul619/Big-Data/tree/main/DataStorage/DataWarehouses/Readme.md) |
 
 # Tech Stack
 

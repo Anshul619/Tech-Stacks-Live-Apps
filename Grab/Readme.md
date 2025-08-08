@@ -8,7 +8,7 @@
 | Data Streaming                                      | [Kafka](https://github.com/Anshul619/HLD-System-Designs/tree/main/2_MessageBrokersEDA/Kafka/Readme.md)                            |
 | Search-DB (derived data)                            | [ElasticSearch](https://github.com/Anshul619/HLD-System-Designs/tree/main/1_Databases/9_Search-Databases/ElasticSearch/Readme.md) |
 | Backend Language                                    | [GoLang](GoLangBackend.md)                                                                                                        |
-| Container Orchestration                             | [Kubernates](https://github.com/Anshul619/HLD-System-Designs/tree/main/9_Container&Orchestration/Kubernates/Readme.md)            |
+| Container Orchestration                             | [Kubernates](https://github.com/Anshul619/DevOps-SRE/tree/main/2_ContainerOrchestration/Kubernates/Readme.md)            |
 | Object Store, Data Lake                             | [Amazon S3](https://github.com/Anshul619/AWS-Services/tree/main/6_FileStorages/3_S3ObjectStorage/Readme.md)                       |
 | Graph Database                                      | [Amazon Neptune](https://github.com/Anshul619/AWS-Services/tree/main/1_Databases/AmazonNeptune.md)                                |
 | InMemory Cache                                      | [Redis](https://github.com/Anshul619/HLD-System-Designs/tree/main/1_Databases/8_Caching-InMemory-Databases/Redis/Readme.md)       |

@@ -2,11 +2,11 @@
 
 | Purpose                 | Service                                                                                                                |
 |-------------------------|------------------------------------------------------------------------------------------------------------------------|
-| Container Orchestration | [Kubernates](https://github.com/Anshul619/HLD-System-Designs/tree/main/9_Container&Orchestration/Readme.md)                                   |
+| Container Orchestration | [Kubernates](https://github.com/Anshul619/DevOps-SRE/tree/main/2_ContainerOrchestration/Readme.md)                                   |
 | Application Networking  | [API Gateway](https://github.com/Anshul619/AWS-Services/tree/main/16_NetworkingAndContentDelivery/2_ApplicationNetworking/AmazonAPIGateway/Readme.md) |
 | Serverless Compute      | [AWS Lambda](https://github.com/Anshul619/AWS-Services/tree/main/2_Compute/AWSLambda/Readme.md)                                              |
 | Message Broker          | [Kafka](https://github.com/Anshul619/HLD-System-Designs/tree/main/2_MessageBrokersEDA/Kafka/Readme.md)                                                  |
-| Observability           | [Prometheus](https://github.com/Anshul619/HLD-System-Designs/tree/main/12_Observability/Prometheus.md)                                                                                                             |
+| Observability           | [Prometheus](https://github.com/Anshul619/DevOps-SRE/tree/main/3_Observability/Prometheus.md)                                                                                                             |
 | Distributed Tracing     | Jaeger                                                                                                                 |
 
 # Read more

@@ -3,10 +3,10 @@
 | Purpose                                                                        | Service                                                                          |
 |--------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
 | Cloud platform                                                                 | [AWS - EC2, Lambda, S3, DynamoDB, CodePipeline etc.](https://github.com/Anshul619/AWS-Services/tree/main/Readme.md) |
-| Container Orchestration                                                        | [Kubernates with Docker](https://github.com/Anshul619/HLD-System-Designs/tree/main/9_Container&Orchestration/Readme.md)          |
+| Container Orchestration                                                        | [Kubernates with Docker](https://github.com/Anshul619/DevOps-SRE/tree/main/2_ContainerOrchestration/Readme.md)          |
 | InMemory-Cache                                                                 | [Redis cache](https://github.com/Anshul619/HLD-System-Designs/tree/main/1_Databases/8_Caching-InMemory-Databases/Redis/Readme.md)                |
 | Message Broker - Pub/Sub                                                       | [Apache Kafka (using confluent)](https://github.com/Anshul619/HLD-System-Designs/tree/main/2_MessageBrokersEDA/Kafka/Readme.md)            |
-| Map-Reduce Jobs (like select driver, generate recommendations etc.)            | [Apache Spark](https://github.com/Anshul619/HLD-System-Designs/tree/main/6_BigData/DataProcessing/ApacheSpark/Readme.md)                  |
+| Map-Reduce Jobs (like select driver, generate recommendations etc.)            | [Apache Spark](https://github.com/Anshul619/Big-Data/tree/main/DataProcessing/ApacheSpark/Readme.md)                  |
 | Socket Connection                                                              | Web Sockets                                                                      |
 | OLTP-DB (like pickers, orders, shipment, restaurants, delivery, shipment etc.) | MySQL, [DynamoDB]()                                                              |
 | Key-Value-DB (high throughput/read/writes)                                     | [DynamoDB]()                                                                     |
