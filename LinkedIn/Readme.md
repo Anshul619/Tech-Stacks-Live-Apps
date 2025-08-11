@@ -14,17 +14,6 @@
 | API Tech                                                     | [HTTP 2.0](https://engineering.linkedin.com/blog/2021/http-2-in-infrastructure--ambry-network-stack-refactoring), [GraphQL](https://engineering.linkedin.com/blog/2023/how-linkedin-adopted-a-graphql-architecture-for-product-developm)  |
 | Home Feed DB                                                 | [RocksDB](https://github.com/Anshul619/HLD-System-Designs/tree/main/1_Databases/14_EmbededKeyValue-Databases/RocksDB.md) - [Read more](https://engineering.linkedin.com/blog/2016/03/followfeed--linkedin-s-feed-made-faster-and-smarter) |
 
-# Kafka Stats in LinkedIn
-
-| Feature                   | Number                                                                                                    |
-|---------------------------|----------------------------------------------------------------------------------------------------------|
-| Average writes per second | 324 K                                                                                                    |
-| Average reads per second  | 2.3 million                                                                                              |
-| Topics                    | ~700 topics                                                                                              |
-| Producers                 | Thousands of producers                                                                                   |
-| Consumers                 | ~1000 consumers                                                                                          |
-| Data Centers              | LinkedIn has 4 data centers in US (texas, virginia, oregon etc.)                                         |
-| Kafka Clusters            | LinkedIn has separate kafka clusters in every data center (for high scalability, disaster recovery etc.) |
 
 # References
 - [Introduction and Overview of Apache Kafka](https://www.slideshare.net/mumrah/kafka-talk-tri-hug)
