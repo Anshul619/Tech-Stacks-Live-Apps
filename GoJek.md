@@ -7,7 +7,7 @@
 | Backend Language - GoLang          | [GoLang](https://github.com/Anshul619/golang), [Java](https://github.com/Anshul619/Programming-Languages/tree/main/1_Java/Readme.md)                                   |
 | GeoSearch                          | [Redis](https://github.com/Anshul619/HLD-System-Designs/tree/main/1_Databases/8_Caching-InMemory-Databases/Redis/Readme.md) - [Read more](https://www.gojek.io/blog/scaling-our-geo-search-service-for-10x-load)                |
 | Data Ingestion - Click Stream, CDC | [Kafka](https://github.com/Anshul619/HLD-System-Designs/tree/main/2_MessageBrokersEDA/Kafka/Readme.md) - [Read more](https://www.gojek.io/blog/introducing-clickstream)                                                       |
-| Data Warehouse                     | [ClickHouse](https://github.com/Anshul619/Big-Data/tree/main/DataStorage/DataWarehouses/ClickHouse.md) - [Read more](https://www.gojek.io/blog/sink-kafka-messages-to-clickhouse-using-clickhouse-kafka-ingestor) |
+| Data Warehouse                     | [ClickHouse](https://github.com/Anshul619/data-engineering/tree/main/DataStorage/DataWarehouses/ClickHouse.md) - [Read more](https://www.gojek.io/blog/sink-kafka-messages-to-clickhouse-using-clickhouse-kafka-ingestor) |
 
 # Others
 - [Acing 1 Million Concurrent MQTT Connections](https://www.gojek.io/blog/acing-1-million-concurrent-mqtt-connections)
